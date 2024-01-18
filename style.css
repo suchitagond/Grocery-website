@@ -302,7 +302,6 @@ nav {
     background-size: cover;
 
     .content {
-        z-index: 2;
         text-align: center;
         width: 60rem;
 
