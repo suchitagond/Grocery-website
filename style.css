@@ -11,7 +11,7 @@ body {
 }
 
 html {
-    font-size: 90%;
+    font-size: 80%;
 }
 
 nav {
@@ -717,7 +717,7 @@ nav {
 
 @media (max-width:600px) {
     html {
-        font-size: 80%;
+        font-size: 70%;
     }
     .feature{
         .steps {
@@ -764,7 +764,7 @@ nav {
 
 @media(max-width:450px) {
     html {
-        font-size: 70%;
+        font-size: 60%;
     }
 
     .product {
